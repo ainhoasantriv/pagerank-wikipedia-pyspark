@@ -143,4 +143,4 @@ dbfs:/databricks-datasets/wikipedia-datasets/data-001/en_wikipedia/articles-only
 
 University project developed at **Universidad Carlos III de Madrid (UC3M)**.
 
-**Author:** Ainhoa Santano
+**Author:** Ainhoa Santano and Marta Gómez
