@@ -16,7 +16,7 @@ The implementation builds the link structure between Wikipedia articles and iter
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 The project uses the public English Wikipedia dataset available in **Databricks**.
 
